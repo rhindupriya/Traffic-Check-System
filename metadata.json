@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Safety Violation Detection System",
+  "description": "Automated computer vision system for real-time helmet compliance monitoring, rash driving detection (overspeeding, zigzag weaving, sudden braking), homography calibration, and AI-assisted E-Challan incident logging.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
